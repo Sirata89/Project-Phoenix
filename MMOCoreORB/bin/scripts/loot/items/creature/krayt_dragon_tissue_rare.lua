@@ -9,7 +9,7 @@ krayt_dragon_tissue_rare = {
 		{"mindamage",85,150,0},
 		{"maxdamage",170,300,0},
 		{"attackspeed",0,-2.2,1},
-		{"useCount",1,20,0},
+		{"useCount",5,25,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}

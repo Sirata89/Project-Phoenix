@@ -9,7 +9,7 @@ geo_solidifying_agent = {
 		{"mindamage",85,150,0},
 		{"maxdamage",170,300,0},
 		{"hitpoints",550,1000,0},
-		{"useCount",1,7,0},
+		{"useCount",3,10,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}

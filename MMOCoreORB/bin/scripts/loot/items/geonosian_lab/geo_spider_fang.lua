@@ -9,7 +9,7 @@ geo_spider_fang = {
 		{"mindamage",85,150,0},
 		{"maxdamage",170,300,0},
 		{"attackspeed",0,-2,5},
-		{"useCount",1,5,0},
+		{"useCount",3,8,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}

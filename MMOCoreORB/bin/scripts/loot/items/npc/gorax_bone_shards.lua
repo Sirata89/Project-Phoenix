@@ -9,7 +9,7 @@ gorax_bone_shards = {
 		{"mindamage",25,40,0},
 		{"maxdamage",50,75,0},
 		{"attackspeed",0,-1,1},
-		{"useCount",1,6,0},
+		{"useCount",3,9,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}

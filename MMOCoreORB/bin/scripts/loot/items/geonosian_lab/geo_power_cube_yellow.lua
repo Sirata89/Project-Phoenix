@@ -9,7 +9,7 @@ geo_power_cube_yellow = {
 		{"mindamage",85,150,0},
 		{"maxdamage",170,300,0},
 		{"armor_effectiveness",3,8,10},
-		{"useCount",1,10,0},
+		{"useCount",3,12,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}
