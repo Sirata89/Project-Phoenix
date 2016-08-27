@@ -41,7 +41,8 @@ ep3_blackscale_captain_beshk = Creature:new {
 				{group = "g_rifle_odararissl", chance = 500000},
 				{group = "g_rifle_ld1", chance = 500000},
 				{group = "g_lance_kaminoan", chance = 500000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_heavy"},

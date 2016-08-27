@@ -39,8 +39,9 @@ ep3_blackscale_assault_m_01 = Creature:new {
 	    	{group = "melee_weapons", chance = 1000000},
 	    	{group = "kashyyykian_black_mtn_armor", chance = 250000},
 	    	{group = "kashyyykian_ceremonial_armor", chance = 250000},
-	    	{group = "kashyyykian_hunting_armor", chance = 250000}
-			}
+	    	{group = "kashyyykian_hunting_armor", chance = 250000},
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_heavy"},

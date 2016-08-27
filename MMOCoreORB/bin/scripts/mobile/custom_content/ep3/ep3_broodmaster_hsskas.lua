@@ -42,7 +42,8 @@ ep3_broodmaster_hsskas = Creature:new {
 				{group = "g_carbine_slug", chance = 500000},
 				{group = "g_jinkins_j1_rifle", chance = 500000},
 				{group = "g_pistol_ion_stunner", chance = 500000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_heavy"},

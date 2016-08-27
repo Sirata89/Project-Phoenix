@@ -36,7 +36,7 @@ nk_mega_droid = Creature:new {
 			groups = {
 				{group = "clothing_attachments", chance = 10000000}
 			},
-			lootChance = 45000000
+			lootChance = 10000000
 		},
 	},
 	conversationTemplate = "",

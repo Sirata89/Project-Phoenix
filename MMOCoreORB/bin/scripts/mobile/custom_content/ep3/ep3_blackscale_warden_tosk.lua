@@ -42,7 +42,8 @@ ep3_blackscale_warden_tosk = Creature:new {
 				{group = "g_baton_gaderiffi_elite", chance = 500000},
 				{group = "g_sword_mace_junti", chance = 500000},
 				{group = "g_rifle_deathtroopers", chance = 500000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_heavy"},

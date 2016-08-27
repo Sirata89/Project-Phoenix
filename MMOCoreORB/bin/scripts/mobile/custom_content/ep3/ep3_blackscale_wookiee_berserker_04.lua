@@ -40,7 +40,8 @@ ep3_blackscale_wookiee_berserker_04 = Creature:new {
 	    	{group = "kashyyykian_black_mtn_armor", chance = 250000},
 	    	{group = "kashyyykian_ceremonial_armor", chance = 250000},
 	    	{group = "kashyyykian_hunting_armor", chance = 250000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"unarmed_weapons"},
