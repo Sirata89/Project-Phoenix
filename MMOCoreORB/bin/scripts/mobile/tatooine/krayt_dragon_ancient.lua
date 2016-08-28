@@ -2,10 +2,10 @@ krayt_dragon_ancient = Creature:new {
 	objectName = "@mob/creature_names:krayt_dragon_ancient",
 	socialGroup = "krayt",
 	faction = "",
-	level = 85,
+	level = 300,
 	chanceHit = 30.0,
-	damageMin = 1070,
-	damageMax = 1250,
+	damageMin = 2070,
+	damageMax = 4250,
 	baseXp = 31500,
 	baseHAM = 41000,
 	baseHAMmax = 51000,
@@ -29,14 +29,22 @@ krayt_dragon_ancient = Creature:new {
 	templates = {"object/mobile/krayt_dragon.iff"},
 	lootGroups = {
 		{
-	        groups = {
+			groups = {
 					{group = "krayt_tissue_rare", chance = 3000000},
 					{group = "krayt_dragon_common2", chance = 3000000},
 					{group = "pearls_flawless", chance = 3000000},
 					{group = "clothing_attachments", chance = 1000000},
 			},
 			lootChance = 10000000
-		}
+		},
+		{
+			groups = {
+				{group = "saberhand24", chance = 3333333},
+				{group = "saberhand25", chance = 3333334},
+				{group = "saberhand26", chance = 3333333}
+			},
+			lootChance = 50000
+		},
 	},
 	weapons = {},
 	conversationTemplate = "",
