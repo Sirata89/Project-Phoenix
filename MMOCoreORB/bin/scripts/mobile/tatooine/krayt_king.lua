@@ -27,7 +27,7 @@
 	diet = CARNIVORE,
 
 	templates = {"object/mobile/canyon_krayt_dragon.iff"},
-	scale = 1.5;
+	scale = 3.0;
 lootGroups = {
 		{
 			groups = {

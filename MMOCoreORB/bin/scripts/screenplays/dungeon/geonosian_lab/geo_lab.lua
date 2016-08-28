@@ -146,11 +146,11 @@ function GeonosianLabScreenPlay:spawnMobiles()
 	spawnMobile("yavin4", "biogenic_securitytech", 1, -48, -18, -31, -180, 1627785)--biogen_security
 	spawnMobile("yavin4", "biogenic_scientist_human", 1, 23.8, -32, -83.2, 130, 1627798)--biogen_human
 	spawnMobile("yavin4", "biogenic_construction", 1, -134.5, -21.7, -74.8, 90, 1627794)--biogen_constuc
-	spawnMobile("yavin4", "thrawn1", 1,-107.7,-18,-33.8,176,1627790)--Thrawn Boss
+	spawnMobile("yavin4", "thrawn1", 3600,-107.7,-18,-33.8,176,1627790)--Thrawn Boss
 	spawnMobile("yavin4", "biogenic_engineertech", 1,-104.971,-18,-66.2072,176,1627789)--biogen_engineer
 	spawnMobile("yavin4", "biogenic_assistant", 1, -36, -21.9, -162.8, 0, 1627803)--biogen_assistant
 	spawnMobile("yavin4", "biogenic_scientist_generic_01", 1, -72.0, -34, -272.9, 0, 1627812)--biogen_gen01
-	spawnMobile("yavin4", "sher_kar", 1, -127.2, -34, -189.0, -93, 1627815)--Sher kar Boss
+	spawnMobile("yavin4", "sher_kar", 3600, -127.2, -34, -189.0, -93, 1627815)--Sher kar Boss
 	spawnMobile("yavin4", "biogenic_scientist_generic_02", 1, -132.769, -34, -206.189, -93, 1627814)--biogen_gen02
 	spawnMobile("yavin4", "biogenic_scientist_geonosian", 1, 7.4, -22, -333, 180, 1627822) -- biogen_geo
 

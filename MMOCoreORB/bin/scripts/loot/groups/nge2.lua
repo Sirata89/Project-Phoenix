@@ -5,16 +5,18 @@ nge2 = {
 	minimumLevel = 0,
 	maximumLevel = -1,
 	lootItems = {
-		{itemTemplate = "ngehouse11", weight = 1000000},
-		{itemTemplate = "ngehouse12", weight = 1000000},
-		{itemTemplate = "ngehouse13", weight = 1000000},
-		{itemTemplate = "ngehouse14", weight = 1000000},
-		{itemTemplate = "ngehouse15", weight = 1000000},
-		{itemTemplate = "ngehouse16", weight = 1000000},
-		{itemTemplate = "ngehouse17", weight = 1000000},
-		{itemTemplate = "ngehouse18", weight = 1000000},
-		{itemTemplate = "ngehouse19", weight = 1000000},
-		{itemTemplate = "ngehouse20", weight = 1000000},
+		{itemTemplate = "ngehouse11", weight = 833333},
+		{itemTemplate = "ngehouse12", weight = 833333},
+		{itemTemplate = "ngehouse13", weight = 833333},
+		{itemTemplate = "ngehouse14", weight = 833333},
+		{itemTemplate = "ngehouse15", weight = 833333},
+		{itemTemplate = "ngehouse16", weight = 833333},
+		{itemTemplate = "ngehouse17", weight = 833333},
+		{itemTemplate = "ngehouse18", weight = 833337},
+		{itemTemplate = "ngehouse19", weight = 833333},
+		{itemTemplate = "ngehouse20", weight = 833333},
+		{itemTemplate = "cloak_of_hate_hood", weight = 833333},
+		{itemTemplate = "shatterpoint_cloak_hood", weight = 833333},
 	}
 }
 

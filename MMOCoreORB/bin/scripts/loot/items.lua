@@ -1241,6 +1241,12 @@ includeFile("items/ngehouse22.lua")
 includeFile("items/ngehouse23.lua")
 includeFile("items/ngehouse24.lua")
 includeFile("items/ngehouse25.lua")
+includeFile("items/ngerobes1.lua")
+includeFile("items/ngerobes2.lua")
+includeFile("items/ngerobes3.lua")
+includeFile("items/ngerobes4.lua")
+includeFile("items/ngerobes5.lua")
+includeFile("items/ngerobes6.lua")
 -- Custom data
 --AV21 Loot
 includeFile("items/custom/av_21_schematic.lua")
