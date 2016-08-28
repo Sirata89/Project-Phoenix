@@ -43,7 +43,7 @@ object_tangible_wearables_robe_robe_chronicle_master = object_tangible_wearables
 
 				skillMods = {
  				    {"jedi_force_power_max", 250},
-				    {"jedi_force_power_regen", 25}
+				    {"jedi_force_power_regen", 10}
 				},
 
 				objectMenuComponent = "RobeObjectMenuComponent",
