@@ -29,14 +29,6 @@ canyon_krayt_dragon_elder = Creature:new {
 	templates = {"object/mobile/canyon_krayt_dragon.iff"},
 	scale = 0.9;
 	lootGroups = {
-				{
-			groups = {
-				{group = "saberhand24", chance = 3333333},
-				{group = "saberhand25", chance = 3333334}
-				{group = "saberhand26", chance = 3333333}
-			},
-			lootChance = 500000
-		},
 		{
 	        groups = {
 					{group = "krayt_tissue_uncommon", chance = 2000000},

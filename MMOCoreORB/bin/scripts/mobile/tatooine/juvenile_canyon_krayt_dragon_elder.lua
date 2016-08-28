@@ -30,15 +30,7 @@ juvenile_canyon_krayt_dragon_elder = Creature:new {
  	scale = 0.55;
  
  	lootGroups = {
- 					{
-			groups = {
-				{group = "saberhand24", chance = 3333333},
-				{group = "saberhand25", chance = 3333334}
-				{group = "saberhand26", chance = 3333333}
-			},
-			lootChance = 500000
-		},
-		
+ 		{
  	        groups = {
  					{group = "krayt_tissue_common", chance = 2000000},
  					{group = "krayt_dragon_common", chance = 2000000},

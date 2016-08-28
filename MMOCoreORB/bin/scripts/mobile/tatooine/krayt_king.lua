@@ -31,13 +31,6 @@
 lootGroups = {
 		{
 			groups = {
-				{group = "saberhand24", chance = 3333333},
-				{group = "saberhand25", chance = 3333334}
-				{group = "saberhand26", chance = 3333333}
-			},
-			lootChance = 500000
-		},
-			groups = {
 				{group = "armor_attachments", chance = 5000000},
 				{group = "clothing_attachments", chance = 5000000}
 			},

@@ -29,14 +29,7 @@ krayt_dragon_adolescent_elder = Creature:new {
  	templates = {"object/mobile/krayt_dragon_hue.iff"},
  	scale = 0.7;
  	lootGroups = {
- 					{
-			groups = {
-				{group = "saberhand24", chance = 3333333},
-				{group = "saberhand25", chance = 3333334}
-				{group = "saberhand26", chance = 3333333}
-			},
-			lootChance = 500000
-		},
+ 		{
  	        groups = {
  					{group = "krayt_tissue_rare", chance = 4000000},
  					{group = "krayt_tissue_uncommon", chance = 1000000},
