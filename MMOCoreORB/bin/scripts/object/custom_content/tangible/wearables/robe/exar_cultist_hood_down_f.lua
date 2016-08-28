@@ -24,7 +24,7 @@ object_tangible_wearables_robe_exar_cultist_hood_down_f = object_tangible_wearab
 
 				skillMods = {
  				    {"jedi_force_power_max", 250},
-				    {"jedi_force_power_regen", 10}
+				    {"jedi_force_power_regen", 25}
 				},
 
 				objectMenuComponent = "RobeObjectMenuComponent",

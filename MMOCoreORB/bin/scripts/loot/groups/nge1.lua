@@ -15,6 +15,8 @@ nge1 = {
 		{itemTemplate = "ngehouse8", weight = 1000000},
 		{itemTemplate = "ngehouse9", weight = 1000000},
 		{itemTemplate = "ngehouse10", weight = 1000000},
+		{itemTemplate = "cloak_of_hate", weight = 1000000},
+		{itemTemplate = "shatterpoint_cloak", weight = 1000000},
 	}
 }
 
