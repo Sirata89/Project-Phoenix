@@ -34,7 +34,8 @@ ep3_canopy_bandit_02 = Creature:new {
 				{group = "skill_buffs", chance = 1000000},
 				{group = "loot_kit_parts", chance = 1000000},
 				{group = "wearables", chance = 1000000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_light"},

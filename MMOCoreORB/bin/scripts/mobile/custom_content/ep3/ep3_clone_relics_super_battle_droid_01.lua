@@ -36,7 +36,7 @@ ep3_clone_relics_super_battle_droid_01 = Creature:new {
 				{group = "g_fan_metal", chance = 500000},
 				{group = "g_pvp_bf_knuckler", chance = 500000},
 			},
-			lootChance = 7500000
+			lootChance = 10000000
 		}
 	},
 	conversationTemplate = "",

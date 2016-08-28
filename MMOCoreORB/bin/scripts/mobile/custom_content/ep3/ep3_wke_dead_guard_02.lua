@@ -35,7 +35,8 @@ ep3_wke_dead_guard_02 = Creature:new {
 	    	{group = "kashyyykian_ceremonial_armor", chance = 2000000},
 	    	{group = "kashyyykian_hunting_armor", chance = 2000000},
 				{group = "rifle_bowcaster", chance = 2000000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"chewbacca_weapons"},

@@ -42,7 +42,8 @@ ep3_canopy_boss = Creature:new {
 				{group = "kashyyykian_hunting_armor", chance = 250000},
 				{group = "g_ep3_chiss_poacher_backpack", chance = 250000},
 				{group = "g_lance_kaminoan", chance = 250000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_heavy"},

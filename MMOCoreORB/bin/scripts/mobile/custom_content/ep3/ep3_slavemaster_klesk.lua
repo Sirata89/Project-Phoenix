@@ -42,7 +42,8 @@ ep3_slavemaster_klesk = Creature:new {
 				{group = "g_two_handed_sword_kashyyk", chance = 500000},
 				{group = "g_two_handed_sword_pvp_bf", chance = 500000},
 				{group = "g_pistol_alliance_disruptor_generic", chance = 500000}
-			}
+			},
+			lootChance = 10000000
 		}
 	},
 	weapons = {"pirate_weapons_heavy"},
