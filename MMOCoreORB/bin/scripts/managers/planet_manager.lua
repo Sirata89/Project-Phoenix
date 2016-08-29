@@ -392,26 +392,21 @@ kaas = {
 
 taanab = {
 	weatherEnabled = 1,
-	gcwEnabled = 1,
 
 		planetTravelPoints = {
-		--{name = "North Starport", x = -475, z = 58, y = 5849, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1},
-		--{name = "South Starport", x = -3237, z = 53, y = -5707, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1}
+		{name = "North Starport", x = -475, z = 58, y = 5849, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1},
+		{name = "South Starport", x = -3237, z = 53, y = -5707, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1}
 	}
 }
+
 ghomrassen = {
 	weatherEnabled = 1,
-	gcwEnabled = 1,
 
 		planetTravelPoints = {
-		{name = "Mos Rassen", x = -3517, z = 8, y = -4980, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1},
-		{name = "Mos Rassen Shuttleport", x = -3209, z = 0, y = -5317, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1}
-	},
-	planetObjects = {
-		{templateFile = "object/building/player/city/shuttleport_tatooine.iff", ox = 0, oy = 0.772, oz = 0, ow = 0.635, x = -5317, z = 0, y = -5317, parentid = 0}
+		{name = "Mos Rassen", x = -3383, z = 0, y = -5176, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1},
+		{name = "Mos Rassen Shuttleport", x = -3198, z = 0, y = -5294, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1}
 	}
 }
-
 
 space_corellia = {
 
