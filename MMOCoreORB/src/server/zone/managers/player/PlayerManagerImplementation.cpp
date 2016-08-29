@@ -751,7 +751,7 @@ void PlayerManagerImplementation::killPlayer(TangibleObject* attacker, CreatureO
 	//player->clearBuffs(true);
 
 	PlayerObject* ghost = player->getPlayerObject();
-
+	ghost->setFactionStatus(FactionStatus::COVERT);
 	//ghost->setFoodFilling(0);
 	//ghost->setDrinkFilling(0);
 
