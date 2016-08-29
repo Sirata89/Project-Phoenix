@@ -262,15 +262,3 @@ ghomrassen = {
 
 	weatherStability = 30, -- Range 0 - 100, Higher = Less weather changes, Overall better weather
 }
-
------------------
---    hoth
------------------
-hoth = {
-
-	defaultWeather = 0, -- Sunny
-
-	averageWeatherDuration = 1200, -- In seconds
-
-	weatherStability = 30, -- Range 0 - 100, Higher = Less weather changes, Overall better weather
-}
