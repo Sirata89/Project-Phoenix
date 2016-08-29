@@ -65,23 +65,14 @@ mando_boss = Creature:new {
 		  {
 			groups = {
 				{group = "nge3", chance = 3000000},
-				{group = "g_pistol_heroic_exar", chance = 2000000},
+				{group = "commando_loot", chance = 2000000},
 				{group = "g_named_crystals", chance = 1000000}
 		},
 			lootChance = 10000000
 		  },
 		  {
 			groups = {
-				{group = "nyms_rare", chance = 3000000},
-				{group = "aakuan_common", chance = 2000000},
-				{group = "g_named_crystals", chance = 1000000},
-				{group = "weapons_all", chance = 4000000}
-		},
-			lootChance = 10000000
-		  },
-		  {
-			groups = {
-				{group = "g_pistol_heroic_exar", chance = 3000000},
+				{group = "commando_loot", chance = 3000000},
 				{group = "aakuan_common", chance = 2000000},
 				{group = "g_named_crystals", chance = 1000000},
 				{group = "weapons_all", chance = 4000000}
@@ -108,19 +99,10 @@ mando_boss = Creature:new {
 		  },
 		  {
 			groups = {
-				{group = "g_carbine_heroic_sd", chance = 500000},
-				{group = "g_carbine_kun_massassi", chance = 500000},
-				{group = "g_polearm_heroic_sd", chance = 500000},
-				{group = "g_pvp_bf_knuckler", chance = 500000},
-				{group = "g_sword_pvp_bf_01", chance = 500000},
-				{group = "g_pistol_heroic_exar", chance = 500000},
-				{group = "g_pistol_heroic_sd", chance = 500000},
-				{group = "g_som_2h_sword_obsidian", chance = 500000},
-				{group = "g_som_2h_sword_tulrus", chance = 500000},
-				{group = "g_som_sword_obsidian", chance = 500000},
-				{group = "weapons_all", chance = 4300000},
-				{group = "g_ep3_chiss_poacher_backpack", chance = 200000},
-				{group = "g_ep3_loot_necrosis", chance = 500000}
+				{group = "g_ep3_loot_blackbane", chance = 500000},
+				{group = "g_ep3_loot_ripper", chance = 4300000},
+				{group = "g_ep3_loot_poisonspike", chance = 200000},
+				{group = "g_xantha_smasher", chance = 500000}
 			},
 			lootChance = 10000000
 		},
@@ -132,9 +114,9 @@ mando_boss = Creature:new {
 		},
 		{
 			groups = {
-				{group = "g_ep3_loot_necrosis", chance = 5000000},
+				{group = "g_punch_dagger", chance = 5000000},
 				{group = "armor_attachments", chance = 2500000},
-				{group = "g_som_2h_sword_tulrus", chance = 2500000}
+				{group = "g_blasterfist", chance = 2500000}
 			},
 			lootChance = 10000000
 		},
@@ -142,7 +124,7 @@ mando_boss = Creature:new {
 			groups = {
 				{group = "pearls_flawless", chance = 5000000},
 				{group = "armor_attachments", chance = 2500000},
-				{group = "g_som_sword_obsidian", chance = 2500000}
+				{group = "g_ep3_loot_liquidsilver", chance = 2500000}
 			},
 			lootChance = 10000000
 		},
@@ -158,7 +140,7 @@ mando_boss = Creature:new {
 			groups = {
 				{group = "pearls_flawless", chance = 5000000},
 				{group = "armor_attachments", chance = 2500000},
-				{group = "g_som_sword_obsidian", chance = 2500000}
+				{group = "g_ep3_loot_firestar", chance = 2500000}
 			},
 			lootChance = 10000000
 		},
@@ -167,42 +149,6 @@ mando_boss = Creature:new {
 				{group = "bounty_hunter_schemes", chance = 10000000}
 		},
 			lootChance = 1000000
-		  },
-		  {
-			groups = {
-				{group = "nyms_rare", chance = 3000000},
-				{group = "g_som_2h_sword_tulrus", chance = 2000000},
-				{group = "g_named_crystals", chance = 1000000},
-				{group = "weapons_all", chance = 4000000}
-		},
-			lootChance = 10000000
-		  },
-		  {
-			groups = {
-				{group = "nyms_rare", chance = 3000000},
-				{group = "aakuan_common", chance = 2000000},
-				{group = "g_named_crystals", chance = 1000000},
-				{group = "weapons_all", chance = 4000000}
-		},
-			lootChance = 10000000
-		  },
-		  {
-			groups = {
-				{group = "nyms_rare", chance = 3000000},
-				{group = "aakuan_common", chance = 2000000},
-				{group = "g_named_crystals", chance = 1000000},
-				{group = "weapons_all", chance = 4000000}
-		},
-			lootChance = 10000000
-		  },
-		  {
-			groups = {
-				{group = "nyms_rare", chance = 3000000},
-				{group = "aakuan_common", chance = 2000000},
-				{group = "g_named_crystals", chance = 1000000},
-				{group = "g_ep3_loot_necrosis", chance = 4000000}
-		},
-			lootChance = 10000000
 		  },
 		  {
 			groups = {
@@ -215,23 +161,17 @@ mando_boss = Creature:new {
 			},
 			lootChance = 1000000
 		},
-		  {
-			groups = {
-				{group = "saberhand1", chance = 10000000}
-							},
-			lootChance = 10000000
-		 	},
 			{
 				groups = {
 					{group = "bounty_hunter_armor", chance = 4500000},
-					{group = "weapons_all", chance = 2000000},
-					{group = "g_sword_mandalorian", chance = 500000},
-					{group = "g_carbine_mandalorian", chance = 500000},
+					{group = "g_rifle_deathtroopers", chance = 2000000},
+					{group = "g_ep3_loot_void", chance = 500000},
+					{group = "g_heavy_avatar_acid_beam", chance = 500000},
 					{group = "g_blasterfist", chance = 500000},
 					{group = "g_pistol_mandalorian", chance = 500000},
-					{group = "g_2h_sword_katana", chance = 500000},
+					{group = "g_rifle_flame_thrower_light", chance = 500000},
 					{group = "g_rifle_mandalorian", chance = 500000},
-					{group = "g_carbine_bounty_ee3", chance = 500000}
+					{group = "g_rifle_lightning_heavy", chance = 500000}
 				},
 				lootChance = 10000000
 		},
