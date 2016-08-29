@@ -390,14 +390,6 @@ kaas = {
 	}
 }
 
-hoth = {
-	weatherEnabled = 1,
-	
-		planetTravelPoints = {
-		{name = "Starport", x = -2226.0, z = 120, y = 737.0, interplanetaryTravelAllowed = 1, incomingTravelAllowed = 1}
-	}
-}
-
 taanab = {
 	weatherEnabled = 1,
 
