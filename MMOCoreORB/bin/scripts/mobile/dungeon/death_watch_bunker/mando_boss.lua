@@ -9,8 +9,8 @@ mando_boss = Creature:new {
 	damageMin = 2250,
 	damageMax = 3980,
 	baseXp = 321478,
-	baseHAM = 1200000,
-	baseHAMmax = 1800000,
+	baseHAM = 2200000,
+	baseHAMmax = 2800000,
 	armor = 3,
 	resists = {125,125,125,125,125,125,125,125,100},
 	meatType = "",
@@ -28,7 +28,7 @@ mando_boss = Creature:new {
 	diet = HERBIVORE,
 	scale = 1.75,
 
-	templates = {"object/mobile/dressed_death_watch_silver.iff"},
+	templates = {"object/mobile/dressed_death_watch_gold.iff"},
 	lootGroups = {
 		{
 			groups = {
@@ -103,8 +103,7 @@ mando_boss = Creature:new {
 				{group = "av_21_scheme", chance = 250000},
 				{group = "mandalorian_schemes", chance = 250000},
 				{group = "av_21_pp", chance = 250000}
-				}
-		},
+			},
 			lootChance = 1000000
 		  },
 		  {
